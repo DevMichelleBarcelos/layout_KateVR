@@ -63,7 +63,7 @@
     });
 
   try {
-    setLanguage(getLanguage());
+    setLanguage('en');
   } catch (e) {}
 })();
 
